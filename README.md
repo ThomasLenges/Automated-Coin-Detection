@@ -31,6 +31,6 @@ To determine the most effective color spaces for coin detection, we analyzed the
 
 ## Authors
 
-- **Paul Lanfermann** ([paul@example.com](mailto\:paul@example.com))
-- **Thomas Lenges** ([thomas@example.com](mailto\:thomas@example.com))
+- **Paul Lanfermann** ([paul.lanfermann@epfl.ch](mailto\:paul.lanfermann@epfl.ch))
+- **Thomas Lenges** ([thomaslenges@hotmail.com](mailto\:thomaslenges@hotmail.com))
 
